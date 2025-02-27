@@ -9,7 +9,7 @@ try:
     print(f'Objeto: {objeto}')
     print(f'Quantidade: {quantidade}')
     print(f'Preço Unitário: R${preco_unitario:.2f}')
-    print(f'Desconto aplicável: {'Sim' if desconto else 'Não'}')
+    print(f"Desconto aplicável? {'Sim' if desconto else 'Não'}")
     print(f'Preço total: R${preco_total:.2f}')
 except ValueError:
     print('Entrada inválida! Digite apenas números inteiros para a quantidade e números para o preço')
