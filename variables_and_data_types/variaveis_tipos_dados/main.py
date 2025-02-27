@@ -1,5 +1,3 @@
-# De uma nota para a minha solução
-
 nome = 'Filipe'
 idade = 37
 altura = 1.74
