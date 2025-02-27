@@ -23,8 +23,5 @@ Um programa que demonstra manipulação de variáveis, conversão de tipos e cá
 
 ### Execução
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/conversao-dados-python.git
-
 # Execute o script
-python3 calculo_simples.py
+python3 main.py
