@@ -18,4 +18,4 @@ Este programa solicita uma temperatura em graus Celsius, converte para Fahrenhei
 2. **Execução**:  
    Execute o script no terminal/prompt de comando:
    ```bash
-   python conversor_temperatura.py
+   python main.py
