@@ -1,5 +1,3 @@
-# De uma nota para a minha solução
-
 def divisao_segura(x: float, y: float):
     try:
         divisao = x / y
